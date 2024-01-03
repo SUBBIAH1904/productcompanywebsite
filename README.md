@@ -29,19 +29,19 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SS Private Limited</title>
+    <title>Subbiah Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SS Private Limited.</div>
+      <div class="banner">Subbiah Private Limited.</div>
       <div class="menu">
-        <div class="menuitemselected"><a href="home.html">Home</a></div>
-        <div class="menuitem"><a href="products.html">Products</a></div>
-        <div class="menuitem"><a href="people.html">People</a></div>
-        <div class="menuitem"><a href="contact.html">Contact Us</a></div>
+        <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
+        <div class="menuitem"><a href="/static/products.html">Products</a></div>
+        <div class="menuitem"><a>People</a></div>
+        <div class="menuitem"><a>Contact Us</a></div>
       </div>
       <div class="content">
         <div class="homecontent">
@@ -70,7 +70,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 SS Private Limited, Developed by Subbiah.
+        Copyright &#169; 2021 Subbiah Private Limited, Developed by Subbiah Otto.
       </div>
     </div>
   </body>
@@ -81,21 +81,21 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SS Private Limited</title>
+    <title>Subbiah Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SS Private Limited.</div>
+      <div class="banner">Subbiah Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected">
           <a href="/static/products.html">Products</a>
         </div>
-        <div class="menuitem"><a href="people.html">People</a></div>
-        <div class="menuitem"><a href="contact.html">Contact Us</a></div>
+        <div class="menuitem"><a>People</a></div>
+        <div class="menuitem"><a>Contact Us</a></div>
       </div>
       <div class="content">
         <div class="productcontent">    
@@ -115,208 +115,20 @@ Publish the website in the given URL.
                   <div class="itemname">Tally Silver</div>
                   <div class="itemprice">Price: Rs.10,000.00 </div>
               </div>
-              <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/tally_bronze.png"  alt="product image">
-                </div>
-                <div class="itemname">Tally Bronze</div>
-                <div class="itemprice">Price: Rs.5,000.00 </div>
-            </div>
-            <div class="productitem"> 
-              <div class="itemimage">
-              <img src="/static/img/tally_scoreboard.png"  alt="product image">
-              </div>
-              <div class="itemname">Tally Scoreboard</div>
-              <div class="itemprice">Price: Rs.50,000.00 </div>
-          </div>
-          <div class="productitem"> 
-            <div class="itemimage">
-            <img src="/static/img/tally-barcode.png"  alt="product image">
-            </div>
-            <div class="itemname">Tally Barcode Scanner</div>
-            <div class="itemprice">Price: Rs.2,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_datahub.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Data Transfer Hub</div>
-          <div class="itemprice">Price: Rs.30,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_printer.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Receipt printer </div>
-          <div class="itemprice">Price: Rs.10,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_inventory.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally RFID Inventory system </div>
-          <div class="itemprice">Price: Rs.1,00,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_fitness.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Fitness Tracker </div>
-          <div class="itemprice">Price: Rs.3,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_buisness.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Buisness Management Suite </div>
-          <div class="itemprice">Price: Rs.30,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_navigator.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Navigator </div>
-          <div class="itemprice">Price: Rs.7,000.00 </div>
-        </div>
-        <div class="productitem"> 
-          <div class="itemimage">
-          <img src="/static/img/tally_auto.png"  alt="product image">
-          </div>
-          <div class="itemname">Tally Automation Hub </div>
-          <div class="itemprice">Price: Rs.3,00,000.00 </div>
-        </div>
           </div>
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 SS Private Limited, Developed by Subbiah.
+        Copyright &#169; 2021 Subbiah Private Limited, Developed by Prakash Otto.
       </div>
     </div>
   </body>
 </html>
-```
-### people.html:
-```
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Jabez Private Limited</title>
-    <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
-  <body>
-    <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
-      <div class="menu">
-        <div class="menuitem"><a href="/static/home.html">Home</a></div>
-        <div class="menuitem">
-          <a href="/static/products.html">Products</a>
-        </div>
-        <div class="menuitemselected"><a href="people.html">People</a></div>
-        <div class="menuitem"><a href="contact.html">Contact Us</a></div>
-      </div>
-      <div class="content">
-        <div class="productcontent">    
-          <h1>Our People</h1>
-          <div class="productitems">
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/ceo.png" alt="product image">
-                </div>
-                <div class="itemname">Aravind</div>
-                <div class="itemprice">Chief Executive Officer</div>
-            </div>
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/CTO.png" alt="product image">
-                </div>
-                <div class="itemname">Karthik</div>
-                <div class="itemprice">Chief Technology Officer</div>
-            </div>
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/marketing-director.png" alt="product image">
-                </div>
-                <div class="itemname">Meera Srinivasan</div>
-                <div class="itemprice">Marketing Director</div>
-            </div>
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/design_lead.png" alt="product image">
-                </div>
-                <div class="itemname">Rajesh Menon</div>
-                <div class="itemprice">Design Lead</div>
-            </div>
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/developer.png" alt="product image">
-                </div>
-                <div class="itemname">Venkatesh</div>
-                <div class="itemprice">Lead Developer</div>
-            </div>
-            <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/HR.png" alt="product image">
-                </div>
-                <div class="itemname">Deepa Krishnan</div>
-                <div class="itemprice">Human Resource Manager</div>
-            </div>
-         
-      <div class="footer">
-        Copyright &#169; 2021 SS Private Limited, Developed by Subbiah.
-      </div>
-    </div>
-  </body>
-</html>
-```
-### Contact.html:
-```
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>SS Private Limited</title>
-    <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
 
-  <body>
-    <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
-      <div class="menu">
-        <div class="menuitem"><a href="/static/home.html">Home</a></div>
-        <div class="menuitem">
-          <a href="/static/products.html">Products</a>
-        </div>
-        <div class="menuitem"><a href="people.html">People</a></div>
-        <div class="menuitemselected"><a href="contact.html">Contact Us</a></div>
-      </div>
-      <div class="content">
-        <div class="productcontent">    
-          <h1>Contact Us</h1>
-          <p>Whatsapp - 123456789</p>
-          <p>Intsagram - tally_ssoft</p>
-          <p>Gmail - s_s@gmail.com</p>
-          <p>Address - v.o.c street, kasthuri bai nagar, west tambaram</p>
- 
-      <div class="footer">
-        Copyright &#169; 2021 SS Private Limited, Developed by Subbiah.
-      </div>
-    </div>
-  </body>
-</html>
 ```
 ### OUTPUT:
 ## Home Page:
-![homepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/2e9efce4-d50b-4f03-b04d-57b934c15e9e)
 
-## Product Page:
-![productpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/c5f101f7-2404-4921-aef2-8eccc6f22c9a)
-
-## People Page :
-![peoplepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4a322cbc-2ff0-4ab7-9353-d29a6e513c15)
-
-## Contact Page :
-![contactpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4314b4a6-d866-437a-88e8-fbe9b487a5f7)
 
 ### Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
