@@ -128,6 +128,10 @@ Publish the website in the given URL.
 ```
 ### OUTPUT:
 ## Home Page:
+![Screenshot 2024-01-03 133408](https://github.com/SUBBIAH1904/productcompanywebsite/assets/147473604/2da47484-22e7-4d59-8bad-2667f0ee5577)
+
+## Product Page:
+![Screenshot 2024-01-03 133753](https://github.com/SUBBIAH1904/productcompanywebsite/assets/147473604/4c6647e7-30a8-4f1b-99f4-4be564c5faad)
 
 
 ### Result:
