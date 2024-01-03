@@ -6,7 +6,7 @@ To design a static website for a software product company company.
 Requirement collection.
 
 ### Step 2:
-Creating the layout using HTML and CSS.
+Creating the layout using HTML and CSS. 
 
 ### Step 3:
 Updating the sample content.
